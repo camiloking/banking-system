@@ -31,11 +31,8 @@ git clone https://github.com/camiloking/banking-system
 cd banking-system
 ```
 
-### 2. Initialize Go modules (if not already done)
-`go mod init github.com/camiloking/banking-system`
-
-### 3. Tidy up dependencies
+### 2. Tidy up dependencies
 `go mod tidy`
 
-### 4. Run tests
+### 3. Run tests
 `go test -v`
