@@ -25,15 +25,15 @@ I wanted to demonstrate how I would have completed the assessment had I had more
 
 ## 🧪 Tests
 
-# 1. Clone the repo
-git clone <>
+### 1. Clone the repo
+git clone github.com/camiloking/banking-system
 cd banking-system
 
-# 2. Initialize Go modules (if not already done)
+### 2. Initialize Go modules (if not already done)
 go mod init github.com/camiloking/banking-system
 
-# 3. Tidy up dependencies
+### 3. Tidy up dependencies
 go mod tidy
 
-# 4. Run tests
+### 4. Run tests
 go test -v
