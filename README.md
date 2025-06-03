@@ -27,7 +27,7 @@ I wanted to demonstrate how I would have completed the assessment had I had more
 
 ### 1. Clone the repo
 ```
-git clone github.com/camiloking/banking-system
+git clone https://github.com/camiloking/banking-system
 cd banking-system
 ```
 
